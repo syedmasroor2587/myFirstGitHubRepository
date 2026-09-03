@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Test Jenkins') {
             steps {
-                echo 'Jenkins successfully connected to GitHub!'
+                echo 'Jenkins successfully connected to GitHub by Syed Masroor!'
             }
         }
     }
